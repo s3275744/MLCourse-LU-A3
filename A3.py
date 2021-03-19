@@ -26,7 +26,7 @@ if __name__ == '__main__':
     # TODO: student code here
 
     plt.tight_layout()
-    plt.savefig('Task1.pdf')  # save as PDF to get the nicest resolution in your report.
+    plt.savefig('Figure1.pdf')  # save as PDF to get the nicest resolution in your report.
     plt.show()
 
     """ Task 2
